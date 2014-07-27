@@ -1,6 +1,6 @@
 Project for Getting and Cleaning Data
 =====================================
-Assignment completer: Mahima Tiwari (https://github.com/benjamin-chan/GettingAndCleaningData)
+Assignment completer: Mahima Tiwari (https://github.com/mahimatiwari/coursera-cleaning-data)
 
 
 Parameters for the project
